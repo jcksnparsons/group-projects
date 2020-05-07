@@ -10,4 +10,4 @@ Nutshell (Single page social media dashboard): https://github.com/nss-day-cohort
 
 Welcome To Nashville (Itinerary creator querying external APIs): https://github.com/nss-day-cohort-38/welcome-to-nashville-fearless-parrots
 
-Celebrity Tribute (Static HTML Page): https://github.com/nss-day-cohort-38/celebrity-tribute-placid-pronghornsgit add
+Celebrity Tribute (Static HTML Page): https://github.com/nss-day-cohort-38/celebrity-tribute-placid-pronghorns
